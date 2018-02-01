@@ -16,6 +16,7 @@
 		CFF51FA3201FB5B300CF4342 /* DroppablePin.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFF51FA2201FB5B300CF4342 /* DroppablePin.swift */; };
 		CFF51FA52020F61C00CF4342 /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFF51FA42020F61C00CF4342 /* PhotoCell.swift */; };
 		CFF51FA72020FF6700CF4342 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFF51FA62020FF6700CF4342 /* Constants.swift */; };
+		CFF51FA92022918A00CF4342 /* PopVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFF51FA82022918A00CF4342 /* PopVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		CFF51FA2201FB5B300CF4342 /* DroppablePin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DroppablePin.swift; sourceTree = "<group>"; };
 		CFF51FA42020F61C00CF4342 /* PhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCell.swift; sourceTree = "<group>"; };
 		CFF51FA62020FF6700CF4342 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		CFF51FA82022918A00CF4342 /* PopVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				CF8124E7201F8ED6005A47B1 /* MapVC.swift */,
+				CFF51FA82022918A00CF4342 /* PopVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CFF51FA92022918A00CF4342 /* PopVC.swift in Sources */,
 				CFF51FA72020FF6700CF4342 /* Constants.swift in Sources */,
 				CFF51FA52020F61C00CF4342 /* PhotoCell.swift in Sources */,
 				CF8124E8201F8ED6005A47B1 /* MapVC.swift in Sources */,
